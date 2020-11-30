@@ -1,15 +1,4 @@
-<style>
- blockquote {
-   color: orange
- }  
 
- html {
-   background-color: black;
- }
- body {
-   color: gray;
- }
-</style>
 
 <body>
 
