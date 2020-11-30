@@ -1,0 +1,15 @@
+html {
+  color: white;
+  background-color : black;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.large-text-sizing {
+  font-size: 4.5em;
+}
+.small-text-sizing {
+  font-size: 3em;
+}
